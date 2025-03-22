@@ -1,0 +1,21 @@
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+
+# Ignore Maven target directory
+target/
+
+# Ignore compiled files
+*.class
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore environment and secrets
+.env
+*.env
+
+#/src/main/com/javaee/controller/IndexController.java
+**/IndexController.java
