@@ -1,0 +1,5 @@
+- Cd tomcat/bin
+- ls -ltr
+- ./start....
+- fahim/fahim
+- localhost:8080
